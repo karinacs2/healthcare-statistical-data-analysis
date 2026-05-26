@@ -68,21 +68,15 @@ The project includes:
 
 ## Visualizations
 
-### Statistical Boxplots
-
-![Statistical Boxplots](images/statistical_boxplots.png)
-
----
-
-### Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
----
-
 ### Correlation Heatmap
 
 ![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+### Statistical Boxplots
+
+![Statistical Boxplots](images/statistical_boxplots.png)
 
 ---
 
@@ -91,6 +85,10 @@ The project includes:
 ![PCA Visualization](images/pca_visualization.png)
 
 ---
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ## Key Insights
 
