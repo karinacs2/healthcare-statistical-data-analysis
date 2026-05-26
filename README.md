@@ -1,4 +1,4 @@
-# MIMIC-II ICU Healthcare Statistical Analysis
+# MIMIC-II ICU Statistical Analysis
 
 ## Project Overview
 
